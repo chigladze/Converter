@@ -1,0 +1,12 @@
+html, * {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 100%;
+}
+
+body {
+  background: rgba(13, 25, 29, 0);
+}
+/*# sourceMappingURL=style.css.map */
